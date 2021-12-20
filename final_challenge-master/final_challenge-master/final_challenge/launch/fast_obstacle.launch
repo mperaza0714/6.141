@@ -1,0 +1,10 @@
+<launch>
+  <!-- Maps and TESSE simulator interface -->
+  <!--include file="$(find final_challenge)/launch/maps.launch"/-->
+  <include file="$(find tesse_ros_bridge)/launch/tesse_bridge.launch"/>
+
+
+  <!-- Launch the obstacle avoidance script! -->
+  <node pkg="final_challenge" name="obstacle_avoidance" type="obstacle_avoidance.py" output="screen">
+  </node>  
+</launch>

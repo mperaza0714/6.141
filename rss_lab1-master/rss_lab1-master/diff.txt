@@ -1,0 +1,65 @@
+diff --git a/diff.txt b/diff.txt
+index fda5e65..e69de29 100644
+--- a/diff.txt
++++ b/diff.txt
+@@ -1,29 +0,0 @@
+-diff --git a/random.txt b/random.txt
+-index 83f13de..1802cdf 100644
+---- a/random.txt
+-+++ b/random.txt
+-@@ -1,23 +1,2 @@
+--While I weep--while I weep!
+--Thus much let me avow--
+--While I weep--while I weep!
+--Them with a tighter clasp?
+--All that we see or seem
+--O God! can I not grasp
+--
+--And I hold within my hand
+--Yet if hope has flown away
+--In a vision, or in none,
+--O God! can I not grasp
+--O God! can I not save
+- I stand amid the roar
+--In a vision, or in none,
+--O God! can I not save
+--In a vision, or in none,
+--And I hold within my hand
+--But a dream within a dream?Yet if hope has flown away
+--And, in parting from you now,
+--Is it therefore the less gone?
+--Through my fingers to the deep,
+--Them with a tighter clasp?
+--O God! can I not grasp
+-+That my days have been a dream;
+diff --git a/random.txt b/random.txt
+index 3f6251a..eeaf5bc 100644
+--- a/random.txt
++++ b/random.txt
+@@ -1,25 +1,2 @@
+-You are not wrong, who deem
+-In a night, or in a day,
+ Yet if hope has flown away
+-Is all that we see or seem
+-Is all that we see or seem
+-Yet if hope has flown away
+-In a vision, or in none,
+-One from the pitiless wave?
+-In a vision, or in none,
+-O God! can I not grasp
+-Grains of the golden sand--
+-
+-That my days have been a dream;
+-Thus much let me avow--
+-Thus much let me avow--
+-Through my fingers to the deep,
+-While I weep--while I weep!
+-Is it therefore the less gone?
+-O God! can I not grasp
+-And, in parting from you now,
+-
+-And, in parting from you now,
+-O God! can I not grasp
+-Take this kiss upon the brow!
+-O God! can I not grasp
++Of a surf-tormented shore,

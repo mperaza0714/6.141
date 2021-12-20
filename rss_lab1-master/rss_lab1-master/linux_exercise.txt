@@ -1,0 +1,51 @@
+<====Navigation====>
+#####1a#######
+cd
+#####End of Question#######
+#####1b#######
+cd /
+#####End of Question#######
+#####1c#######
+cd ..
+#####End of Question#######
+#####1d#######
+ls -al ~/
+#####End of Question#######
+#####1e#######
+pwd
+#####End of Question#######
+<====Managing and Using programs====>
+#####2a#######
+sudo apt install inxi
+#####End of Question#######
+#####2b#######
+man inxi
+#####End of Question#######
+#####2c#######
+inxi -A
+#####End of Question#######
+#####2d#######
+sudo apt remove inxi
+#####End of Question#######
+#####2e#######
+firefox
+#####End of Question#######
+#####2f#######
+sudo apt-get update
+#####End of Question#######
+#####2g#######
+sudo apt-get upgrade
+#####End of Question#######
+<====ssh====>
+#####3a#######
+ssh mperaza@athena.dialup.mit.edu
+#####End of Question#######
+#####3b#######
+wget -O pic.png https://tinyurl.com/ya67uga4
+#####End of Question#######
+#####3c#######
+exit
+#####End of Question#######
+#####3d#######
+scp mperaza@athena.dialup.mit.edu:pic.png ~/Pictures
+#####End of Question#######

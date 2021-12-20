@@ -1,0 +1,12 @@
+[submodule "wall_follower"]
+	path = wall_follower
+	url = git@github.mit.edu:rss2021-2/wall_follower_tesse.git
+[submodule "localization"]
+	path = localization
+	url = git@github.mit.edu:rss2021-2/localization_tesse.git
+[submodule "path_planning"]
+	path = path_planning
+	url = git@github.mit.edu:rss2021-2/path_planning_tesse.git
+[submodule "visual_servoing"]
+	path = visual_servoing
+	url = git@github.mit.edu:rss2021-2/visual_servoing_tesse.git
